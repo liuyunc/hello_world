@@ -1,5 +1,5 @@
 hello_world
 ===========
 
-#include "main.c"
+#include_1 "main.c"
 test
